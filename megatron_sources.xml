@@ -1,0 +1,75 @@
+<sources>
+    <files>
+        <default pathversion="1"/>
+        <source>
+            <name>.13clowns</name>
+            <path pathversion="1">http://13clowns.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.cellardoortv</name>
+            <path pathversion="1">http://cellardoortv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.kodil</name>
+            <path pathversion="1">http://www.lvtvv.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mancavekodi</name>
+            <path pathversion="1">http://kodi.mancavekodi.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mavericktv</name>
+            <path pathversion="1">http://mavericktv.net/mavrepo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.megatron</name>
+            <path pathversion="1">http://transform.mega-tron.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.midian</name>
+            <path pathversion="1">http://www.midian.appboxes.co/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.nixgates</name>
+            <path pathversion="1">http://nixgates.github.io/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.redux</name>
+            <path pathversion="1">http://i-a-c.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.rockcrusher</name>
+            <path pathversion="1">http://rockodi.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.streamarmy</name>
+            <path pathversion="1">http://streamarmy.co.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.supremacy</name>
+            <path pathversion="1">http://supremacy.org.uk/zip/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.t2k</name>
+            <path pathversion="1">http://www.t2k-cloud.co.uk/Repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.ukodi1</name>
+            <path pathversion="1">http://ukodi1.com/Repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+		</files>
+</sources>
